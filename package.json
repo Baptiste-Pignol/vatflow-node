@@ -1,0 +1,30 @@
+{
+  "name": "vatflow",
+  "version": "1.0.0",
+  "description": "Official Node.js wrapper for the VatFlow API (EU VAT validation & monitoring)",
+  "keywords": [
+    "vat",
+    "vies",
+    "eu",
+    "webhook",
+    "rapidapi",
+    "vatflow",
+    "tax",
+    "validation"
+  ],
+  "homepage": "https://github.com/Baptiste-Pignol/vatflow-node#readme",
+  "bugs": {
+    "url": "https://github.com/Baptiste-Pignol/vatflow-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baptiste-Pignol/vatflow-node.git"
+  },
+  "license": "MIT",
+  "author": "QuiCreatdev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
