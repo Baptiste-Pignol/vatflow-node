@@ -1,6 +1,6 @@
 # VatFlow Node.js SDK
 
-The official Node.js client for the [VatFlow - EU VAT & Company Monitor](https://rapidapi.com/BaptistePignol/api/vatflow-eu-vat-company-monito) API on RapidAPI.
+The official Node.js client for the [VatFlow - EU VAT & Company Monitor](https://rapidapi.com/BaptistePignol/api/vatflow-eu-vat-company-monitor) API on RapidAPI.
 
 VatFlow allows you to instantly validate European VAT numbers via VIES, enrich French company profiles (financials, executives, UBOs), and set up webhooks to monitor businesses for critical status changes.
 
